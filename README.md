@@ -1,0 +1,2 @@
+# script
+Lewati laman ini
